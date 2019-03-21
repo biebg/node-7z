@@ -45,8 +45,9 @@
     "util"
   ],
   "dependencies": {
-    "when": "^3.7.8",
-    "cross-spawn": "^6.0.5"
+    "cross-spawn": "^6.0.5",
+    "tar": "^4.4.8",
+    "when": "^3.7.8"
   },
   "optionalDependencies": {
     "all-unpacker": "^0.1.2",
